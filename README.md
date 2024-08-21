@@ -24,3 +24,9 @@
 - 💻 &nbsp;  Java | C | MySQL
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Tailwind | ReactJS | NextJS
+
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">]([https://www.linkedin.com/in/vivek-chauhan-769028174/](https://www.linkedin.com/in/lucas-iriarte-b409471b8/))
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]([https://www.instagram.com/vivek.agent47/](https://www.instagram.com/lucas.iriarte02/))
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">]([https://vivekagent47.github.io/]([https://github.com/LucasIriarte9](https://portfoliolucasiriarte.netlify.app/)))
