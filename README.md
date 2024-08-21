@@ -25,6 +25,13 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Tailwind | ReactJS | NextJS
 
+## 💻 Projects
+* [Portfolio](https://portfoliolucasiriarte.netlify.app/)
+* [Melicas (consumo de varias apis)](https://9-forty-fc4y-j0arx0b1v-lucasiriarte9s-projects.vercel.app/)
+* [Huellitas (ecommerce)](https://lucasiriarte9.github.io/Velas/)
+* [BuscaPelis (buscador de peliculas)](https://busca-pelis-gules.vercel.app/)
+* [PersonalTrainer (Landing para profesor)](https://personal-trainer-murex.vercel.app/)
+
 ## 📫 Contact Me
 - LinkedIn - [Lucas Iriarte](https://www.linkedin.com/in/lucas-iriarte-b409471b8/)
 - PortFolio - [Portfolio](https://portfoliolucasiriarte.netlify.app/)
